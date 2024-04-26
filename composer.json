@@ -1,0 +1,12 @@
+{
+    "require": {
+        "hflabs/dadata": "^24.4"
+    },
+
+    "replace": {
+        "psr/log":  "*",
+        "psr/container":  "*",
+        "psr/http-client":  "*",
+        "psr/http-message":  "*"
+    }
+}
